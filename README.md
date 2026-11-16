@@ -1,2 +1,2 @@
-# gdextension-cpp-example
-godot-cpp study
+# godot-cpp demo
+godot-cpp example
